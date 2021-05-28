@@ -1,0 +1,24 @@
+*{
+    box-sizing:border-box; 
+  }
+
+.imagen{
+    display:block;
+    text-align: center;
+    padding-top: 100px;
+
+    
+}
+
+.formulario{
+
+    text-align: center;
+}
+
+
+@media(max-width:767px){
+    .imagen>img{
+        width: 250px;
+    }
+
+}

@@ -1,0 +1,20 @@
+body{
+    display: block;
+    align-items: center;
+    max-width: 1500px;
+    /*border-bottom:rgb(4, 93, 4) solid 1px;*/
+    text-align: center;
+    margin: auto;
+    padding: auto;
+}
+
+
+.logo>div>img {
+    width: 200px;   
+}
+.radio{
+    border: black solid 3px;
+    padding: 10px;
+    margin: auto;
+    width: 200px;
+}

@@ -1,0 +1,71 @@
+.navegador {
+    border-bottom:green solid 2px;
+}
+.container {
+    display:inline-block;
+    justify-content: center;
+    
+}
+.form1{
+   
+    color:green;
+    padding: 50px;
+    width:300px;
+    display:inline-block;
+    
+
+}
+.form2{
+    
+     color:green;
+     padding: 50px;
+     width:300px;
+     display:inline-block;
+     
+    
+}
+.form3{
+   
+    color:green;
+    padding: 50px;
+    width:300px;
+    display:inline-block;
+    
+}  
+.form4{
+   
+    color:green;
+    padding: 50px;
+    width:300px;
+    display:inline-block;
+   
+}  
+.form5{
+   
+    color:green;
+    padding: 50px;
+    width:300px;
+    display:inline-block;
+   
+}
+.form6{
+   
+    color:green;
+    padding: 50px;
+    width:300px;
+    display:inline-block;
+   
+}    
+.administrador {
+    /*border: black solid 1px;*/
+    padding:50px;
+    text-align: center;
+}
+.administrador>label{
+    padding: 5px;
+}
+h1{
+    margin: auto;
+}
+    
+
